@@ -1,0 +1,14 @@
+2021-01-24 23:35:24 INFO  CommonFunctions:40 - Orange HRM Test Begins
+2021-01-24 23:35:24 INFO  CommonFunctions:41 - Loding the propertiy file
+2021-01-24 23:35:33 INFO  CommonFunctions:50 - Launching Chrome
+2021-01-24 23:35:41 INFO  CommonFunctions:60 - Navigating to the Application
+2021-01-24 23:35:41 INFO  Test_Pending_Leave_Request:19 - Logging in to application
+2021-01-24 23:35:45 INFO  Test_Pending_Leave_Request:29 - Getting the pending leave request details
+2021-01-24 23:35:46 INFO  Test_Pending_Leave_Request:34 - Verifying leave request
+2021-01-24 23:35:46 INFO  Test_Pending_Leave_Request:36 - End of pending leave request test case
+2021-01-24 23:35:47 INFO  Test_User_Role:22 - NAvigating to user page
+2021-01-24 23:35:48 INFO  Test_User_Role:30 - selecting the user role
+2021-01-24 23:35:48 INFO  Test_User_Role:34 - selecting the user status
+2021-01-24 23:35:50 INFO  Test_User_Role:43 - Verifying the results
+2021-01-24 23:35:50 INFO  Test_User_Role:47 - End of user role test case
+2021-01-24 23:35:50 INFO  CommonFunctions:67 - Execution done. Closing the browser
